@@ -1,0 +1,6 @@
+C:\Users\chirapath\Documents\visualstudiocode\Learning\C#\SimpleCalculatorWeblinux\SimpleCalculatorWeblinux_UITests\obj\Debug\net6.0\SimpleCalculatorWeblinux_UITests.csproj.AssemblyReference.cache
+C:\Users\chirapath\Documents\visualstudiocode\Learning\C#\SimpleCalculatorWeblinux\SimpleCalculatorWeblinux_UITests\obj\Debug\net6.0\SimpleCalculatorWeblinux_UITests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chirapath\Documents\visualstudiocode\Learning\C#\SimpleCalculatorWeblinux\SimpleCalculatorWeblinux_UITests\obj\Debug\net6.0\SimpleCalculatorWeblinux_UITests.AssemblyInfoInputs.cache
+C:\Users\chirapath\Documents\visualstudiocode\Learning\C#\SimpleCalculatorWeblinux\SimpleCalculatorWeblinux_UITests\obj\Debug\net6.0\SimpleCalculatorWeblinux_UITests.AssemblyInfo.cs
+C:\Users\chirapath\Documents\visualstudiocode\Learning\C#\SimpleCalculatorWeblinux\SimpleCalculatorWeblinux_UITests\obj\Debug\net6.0\SimpleCalculatorWeblinux_UITests.csproj.CoreCompileInputs.cache
+C:\Users\chirapath\Documents\visualstudiocode\Learning\C#\SimpleCalculatorWeblinux\SimpleCalculatorWeblinux_UITests\obj\Debug\net6.0\SimpleCalculatorWeblinux_UITests.sourcelink.json
